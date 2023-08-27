@@ -13,12 +13,15 @@ CSS
 Javascript
 
 ## 💻 Pré visualizar
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
  <img src="./assets/1.jpg" width="300" />
  <img src="./assets/2.jpg" width="300" />
  <img src="./assets/3.jpg" width="300" />
  <img src="./assets/4.jpg" width="300" />
  <img src="./assets/5.jpg" width="300" />
  <img src="./assets/6.jpg" width="300" />
+</div>
+
  
 
 ---
