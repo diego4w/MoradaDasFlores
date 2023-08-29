@@ -11,6 +11,25 @@
 }
 
 .main {
+    background-image: url("../assets/7.jpg");
+    min-height: 380px;
+    height: 663px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--primary-color);
+    color: #fff;
+}
+
+.mainn{
     height: 663px;
     display: flex;
     flex-direction: row;
@@ -31,8 +50,7 @@
 
 
 .img{
-    width: 594px;
-    height: 663px;
+    width: 500px;
 }
 
 .p1 h1 {
