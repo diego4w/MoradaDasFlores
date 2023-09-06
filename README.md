@@ -12,6 +12,8 @@ CSS
  
 Javascript
 
+PHP
+
 ## 💻 Pré visualizar
  <img src="./assets/1.jpg" width="300" />
  <img src="./assets/2.jpg" width="300" />
