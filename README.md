@@ -9,8 +9,6 @@ Plataforma para compra, venda e locação de imóveis
 HTML 
 
 CSS
- 
-Javascript
 
 PHP
 
